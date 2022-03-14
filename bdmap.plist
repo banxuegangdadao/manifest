@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://180.76.149.60/IphoneCom-resign-carplay.ipa</string>          <!-- ipa的http地址 -->
+                    <string>https://gy-bucket1.gz.bcebos.com/IphoneCom-resign-carplay.ipa?authorization=bce-auth-v1/78a07e4ad8914391b46411216d9f6e5b/2022-03-14T01%3A10%3A42Z/-1/host/0e14eb5d2c6b34033497d4645c660f346f319a484a9521de308e61a67aac201b</string>          <!-- ipa的http地址 -->
                 </dict>
                 <dict>
                     <key>kind</key>
